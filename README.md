@@ -20,5 +20,13 @@ e.g. `python art.py rocket.jpg`
 이미지 파일의 가로 또는 세로의 길이가 100px을 넘지 않는 경우 ascii art를 생성해도 이미지 판별이 불가능할 가능성이 높으므로 이미지 처리를 제한합니다.
 
 
+## Example
+`python art.py rocket.jpg`
+### INPUT
+![rocket.jpg](https://github.com/blinglnav/ascii-art-py/blob/master/rocket.jpg?raw=true)
+### OUTPUT
+![result](https://scontent-icn1-1.xx.fbcdn.net/v/t1.0-9/15171199_1217602364959684_7307355007573849411_n.jpg?oh=855d7d6e9a8df90ab5cd620555982d79&oe=58D462AC)
+
+
 ## License
 MIT License에 따라 자유롭게 이용 가능합니다
