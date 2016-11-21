@@ -14,7 +14,7 @@
 * Pillow (버전 의존성 확인 필요)
 
 ## USAGE
-python art.py [Image File Path]
+python art.py IMAGE_FILE_PATH
 e.g. `python art.py rocket.jpg`
 
 이미지 파일의 가로 또는 세로의 길이가 100px을 넘지 않는 경우 ascii art를 생성해도 이미지 판별이 불가능할 가능성이 높으므로 이미지 처리를 제한합니다.
